@@ -20,7 +20,17 @@ It now organises each answer into:
 
 ## Pitch Deck
 
-![Cari Ralphthon 2026 pitch deck](assets/cari-pitch-deck.svg)
+![Cari pitch deck slide 1](assets/pitch/slide-1.jpg)
+![Cari pitch deck slide 2](assets/pitch/slide-2.jpg)
+![Cari pitch deck slide 3](assets/pitch/slide-3.jpg)
+![Cari pitch deck slide 4](assets/pitch/slide-4.jpg)
+![Cari pitch deck slide 5](assets/pitch/slide-5.jpg)
+![Cari pitch deck slide 6](assets/pitch/slide-6.jpg)
+![Cari pitch deck slide 7](assets/pitch/slide-7.jpg)
+![Cari pitch deck slide 8](assets/pitch/slide-8.jpg)
+![Cari pitch deck slide 12](assets/pitch/slide-12.jpg)
+![Cari pitch deck slide 13](assets/pitch/slide-13.jpg)
+![Cari pitch deck slide 14](assets/pitch/slide-14.jpg)
 
 ## What Cari Returns
 
@@ -55,7 +65,7 @@ Required files:
 ```text
 index.html
 assets/cari-screenshot.svg
-assets/cari-pitch-deck.svg
+assets/pitch/*.jpg
 README.md
 ```
 

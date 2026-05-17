@@ -20,6 +20,8 @@ It now organises each answer into:
 
 ## Pitch Deck
 
+> Link: https://drive.google.com/drive/folders/1_jJrCgLVZ6zgnEOfwBuktzFarmCmmswm?usp=sharing
+
 ![Cari pitch deck slide 1](assets/pitch/slide-1.jpg)
 ![Cari pitch deck slide 2](assets/pitch/slide-2.jpg)
 ![Cari pitch deck slide 3](assets/pitch/slide-3.jpg)

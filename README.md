@@ -182,9 +182,9 @@ Cari's goal after the hackathon: partner with AIC, polyclinics, or community hea
 Whatever your situation, the single best first call is:
 
 **Agency for Integrated Care (AIC)**
-Hotline: 1800-650-6060
-Mon–Fri 8:30am–8:30pm · Sat 8:30am–4pm
-Website: aic.sg
+> Hotline: 1800-650-6060
+> Mon–Fri 8:30am–8:30pm · Sat 8:30am–4pm
+> Website: aic.sg
 
 ---
 

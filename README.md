@@ -1,10 +1,22 @@
 # Cari
 
-Singapore caregiver support finder. Give it one message to find every scheme you qualify for.
+Singapore caregiver relief planner. Give it one message to turn care chaos into money, documents, follow-ups, and support.
 
 ![Cari app screenshot](assets/cari-screenshot.svg)
 
-Cari parses a caregiver's situation, matches eligibility across Singapore grants and subsidies, and returns a plain-English action plan ordered by financial impact.
+Cari parses a caregiver's situation, matches eligibility across Singapore grants and subsidies, and returns a plain-English relief plan ordered by financial impact and effort saved.
+
+## Relief Tracks
+
+Cari is designed for caregivers who are often working full-time while coordinating parents, siblings, helpers, hospitals, and money.
+
+It now organises each answer into:
+
+- Money relief
+- Document readiness
+- Family task split
+- Care team handoff
+- Caregiver stress support
 
 ## Pitch Deck
 
@@ -18,7 +30,7 @@ Every caregiver reply is broken into:
 2. **How much you can save**
 3. **What to do next**
 
-Each action plan includes buttons to call AIC, open relevant grant pages, and prepare a referral email.
+Each relief plan includes buttons to call AIC, open relevant grant pages, prepare a referral email, collect documents, split family tasks, and ask for caregiver support.
 
 ## Care Team Handoff
 

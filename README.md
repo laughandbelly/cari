@@ -6,6 +6,10 @@ Singapore caregiver support finder. Give it one message to find every scheme you
 
 Cari parses a caregiver's situation, matches eligibility across Singapore grants and subsidies, and returns a plain-English action plan ordered by financial impact.
 
+## Pitch Deck
+
+![Cari Ralphthon 2026 pitch deck](assets/cari-pitch-deck.svg)
+
 ## What Cari Returns
 
 Every caregiver reply is broken into:
@@ -39,6 +43,7 @@ Required files:
 ```text
 index.html
 assets/cari-screenshot.svg
+assets/cari-pitch-deck.svg
 README.md
 ```
 
